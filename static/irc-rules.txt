@@ -1,6 +1,6 @@
 The GrapheneOS IRC Channel Rules
 ================================
-Last updated September 13 2020
+Last updated 2020-12-25
 
 Hello and welcome to the GrapheneOS IRC channel, which is bridged to
 Matrix. We try to be welcoming and flexible and operate under the
@@ -38,10 +38,11 @@ According to past experience, these topics descend into unresolvable ego-driven
 disputes. Playing a game of "mine is bigger, more paranoid, private, technical,
 or libre than yours" is extremely toxic and exhibits cult-like behaviour within
 communities. We don't want #GrapheneOS to turn into a privacy cult so these
-topics are currently embargoed.
+topics are currently embargoed. If in doubt of any rules please defer to
+moderators interpretation and requests. Avoid backseat moderating.
 
 Topics listed under Rule 2, may be redirected to #grapheneos-offtopic to
 a limited extent, as long as discussions remain civil and non-inflammatory.
 Rule Zero still applies and Rule 1 is still strongly encouraged.
 
-With all that said, enjoy your stay and welcome to #GrapheneOS!
+Please enjoy your stay and welcome to #GrapheneOS!
